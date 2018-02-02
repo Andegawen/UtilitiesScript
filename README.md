@@ -4,6 +4,7 @@ I use bash/powershell/LINQPad to achieve some things
 
 List of scripts:
 * TailTheNewestLogFile.ps1
+This script finds the newest file in folder and write live content in console with coloring
 * resolvePath.linq
 This small program opens TortoiseGit in blame mode with specific path.
 Unfortunatlety VisualStudio  `$(ItemPath)` doesn't provide proper case-sensite path, so I change it and pass to tortoise process
